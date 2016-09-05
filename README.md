@@ -34,6 +34,7 @@
  - [芒果笔记](http://note.mango.im/) —— 本人的博客啦,关注PHP & Laravel,也写过简单的博客示例[laravel51](https://github.com/mangoim/laravel51)
  - [Laravel小抄](http://cheats.jesse-obrien.ca/) —— Laravel常用命令集合 
  - [yuansir](http://www.yuansir-web.com/) —— 推荐[让更好用的laravel来构建web应用 (PPT)](http://slides.com/ryanyuan/better-use-of-laravel-to-build-web-applications#/)
+ - [Matt Stauffer on Laravel, PHP, Frontend development](https://mattstauffer.co/blog) —— 英文博客
 
 ##Laravel 开发实例
  - [NauxLiu/PHPHub](https://github.com/NauxLiu/phphub-server) —— 基于Laravel5.1，并赠送[PHPHub iOS](https://github.com/Aufree/phphub-ios) & [PHPHub Android](https://github.com/CycloneAxe/phphub-android)客户端全家桶   
