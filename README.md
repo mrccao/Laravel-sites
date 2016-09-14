@@ -1,7 +1,4 @@
-# Laravel不权威导航
-
-> Hi 这里是Roy整理的Laravel相关索引，希望能帮到大家:smiling_imp:，目前只是一小部分，正在努力整理中...
-
+http://laravelacademy.org/laravel-project
 ##Laravel 文档
 
  - [Laravel 官方文档](http://laravel.com/)       —— 英文
